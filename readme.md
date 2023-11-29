@@ -5,11 +5,6 @@ Trabajaremos las promesas con el siguiente ejercicio:
 - Si uno de los números es 0 devolverá un error con el mensaje: "some number is zero"
 - Si el resultado de la potencia es mayor que 100 devolverá un error con el mensaje: "power is greater than 100"
 
-## Requisitos
-
-- La suma debe generarse con un retardo de 2s.
-- El cuadrado debe generarse con un retardo de 1s.
-
 ## Iteración 1
 - Crea una función `asyncAddition()` que reciba como argumento dos números.
 - Esta función debe devolver el resultado en una promesa.
